@@ -32,7 +32,7 @@
         </div>
 
         <small style="font-size: 10px; color: gray">
-            Copyright &copy; 2021 All rights reserved | developed and designed <span class="fa fa-heart"></span><br> by <br><a href="">Paul Emechebe</a>
+            Copyright &copy; 2021 All rights reserved | developed and designed <span class="fa fa-heart"></span><br> by <br><a href="https://wa.me/2347066499537">Paul-Simon Emechebe</a>
         </small>
 </footer>
     <script src="script.js"></script>

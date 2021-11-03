@@ -19,7 +19,6 @@
 </head>
 
 <body>
-<!-- <div id="header-hero-container"> -->
         <header>
             <div class="flex container" style="background-color:#333333">
                 <a id="logo" href="index.php">

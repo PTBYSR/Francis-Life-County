@@ -15,7 +15,6 @@
                     <li>Placeat maxime animi minus</li>
                     <li>Placeat maxime animi minus</li>
                 </ul>
-                <!-- <button class="rounded">Learn More</button> -->
             </div>
         </div>
     </section>
